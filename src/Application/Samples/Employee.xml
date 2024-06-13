@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xsl-output default="Employee.htm"?>
 <Employees xmlns="http://Employees" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://Employees Employee.xsd">
   <Employee id="12615" title="Architect">
-    <!--This is a comment-->
+    <!-- This is a comment -->
     <Name>
       <First>Nancy</First>
       <Middle>J.</Middle>
